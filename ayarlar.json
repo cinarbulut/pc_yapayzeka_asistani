@@ -1,0 +1,25 @@
+{
+  "sistem_adi": "Kam",
+  "kullanici_adi": "Başkan",
+  "ollama_url": "http://localhost:11434",
+  "model": "qwen2.5:7b",
+  "konum_adi": "Yozgat",
+  "konum_lat": 39.82,
+  "konum_lon": 34.81,
+  "mic_baslangic": false,
+  "sesli_baslangic": false,
+  "enerji_esigi": 300,
+  "duraklama_suresi": 0.8,
+  "dinleme_zaman_asimi": 3,
+  "cumle_sure_siniri": 8,
+  "konusma_hizi": 175,
+  "gunluk_saklama_gun": 30,
+  "ek_uygulamalar": {
+    "hesap makinesi": "calc.exe",
+    "not defteri": "notepad.exe",
+    "paint": "mspaint.exe"
+  },
+  "baglam_uzunlugu": 4096,
+  "acilis_sesi": true,
+  "mail_bildirim": true
+}
